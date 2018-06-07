@@ -1,0 +1,26 @@
+# 1.Node.js环境安装-Windows
+
+（1）下载Node.js
+
+```
+      https://nodejs.org/en/
+```
+
+（2）安装Node.js
+```
+     cd d:\Develop\nodejs
+```
+
+（3）测试Node.js
+
+```
+      node -v
+      npm -v
+```
+
+（4）设置环境变量
+
+```
+      NODE_PATH
+      D:\Develop\nodejs\node_global\node_modules
+```
